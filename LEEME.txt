@@ -1,0 +1,14 @@
+Sistema de Autenticación
+
+Hecho por: Michell Alejandro López Sierra
+
+Es un sistema escrito en Python, que usa la deteccion de rostros por medio de OpenCV para autorizar el acceso a una cerradura electrónica
+
+Instrucciones:
+
+Abrir una linea de comandos
+Ir a la carpeta donde estan los documentos fuentes(PROYECTO_EXEC.pyw)
+Escribir en la terminal python PROYECTO_EXEC.pyw
+Se ejecutara la aplicación
+Ingresar su clave de acceso
+Cuando se active la webcam, mirar a la camara para que se haga el reconocimiento
