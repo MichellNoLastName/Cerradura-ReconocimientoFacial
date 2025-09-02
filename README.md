@@ -14,3 +14,6 @@ Cuando un rostro es **reconocido positivamente**, el sistema se comunica con un 
 
 ✅ Activación de un servomotor que simula una cerradura.
 
+![Interfaz](images/Interfaz.jpg)
+![Autenticacion](images/Auntenticacion.jpg)
+
